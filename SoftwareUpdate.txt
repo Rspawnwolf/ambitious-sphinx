@@ -1,1 +1,1 @@
-Remove JAX constraints in Exporter (#8309)
+Disable Tab Limit - Disables the default tab limit (varies giữa devices)
